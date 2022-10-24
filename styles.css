@@ -1,0 +1,12 @@
+.option {
+    height: 4rem;
+}
+
+.option img {
+    height: 4rem;
+    width: 3rem;
+}
+
+.hide {
+    display: none;
+}
